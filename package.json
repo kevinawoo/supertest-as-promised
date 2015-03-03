@@ -43,7 +43,7 @@
     "should": "3.3.1"
   },
   "dependencies": {
-    "bluebird": "^2.2.2",
+    "bluebird": "^2.9.13",
     "methods": "^1.0.0"
   }
 }
